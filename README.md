@@ -6,3 +6,6 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 ## Notas
 Pueden hacer lo que quieran...
 "# liga-justicia" 
+
+## Actualizado hasta GipHub 
+Este es un mensaje editado completamente desde GipHub 
